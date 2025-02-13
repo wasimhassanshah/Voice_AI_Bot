@@ -1,7 +1,7 @@
 # Voice_AI_Bot
 
-# Equity-Research-Analysis-Chatbot
-This project is an OpenAI-powered conversational chatbot with text and voice interaction capabilities, built using Streamlit. It leverages OpenAI’s GPT-3.5-turbo for text-based responses and Whisper for speech-to-text conversion. The chatbot supports text-to-speech synthesis, enabling audio playback of responses for a more interactive experience. Users can communicate via text or voice, with real-time transcription and automated response generation.
+ 
+This project is an OpenAI-powered conversational chatbot with text and voice interaction capabilities, built using Streamlit. It leverages OpenAI’s GPT-4o for text-based responses and Whisper for speech-to-text conversion. The chatbot supports text-to-speech synthesis, enabling audio playback of responses for a more interactive experience. Users can communicate via text or voice, with real-time transcription and automated response generation.
 
 
 # Chatbot
